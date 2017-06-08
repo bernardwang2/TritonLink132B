@@ -89,6 +89,19 @@
       <INPUT TYPE="submit" VALUE="Report 3d"/> <P />
     </FORM>
 
+    <p> Milestone 3 </p>
+    <FORM METHOD="GET" ACTION="insertion.jsp">
+      <INPUT TYPE="submit" VALUE="New Section"/> <P />
+    </FORM>
+
+    <FORM METHOD="GET" ACTION="section_enrollment.jsp">
+      <INPUT TYPE="submit" VALUE="Section Enrollment"/> <P />
+    </FORM>
+
+    <FORM METHOD="GET" ACTION="grade_entry.jsp">
+      <INPUT TYPE="submit" VALUE="Grade Entry"/> <P />
+    </FORM>
+
   </BODY>
 </HTML>
 
